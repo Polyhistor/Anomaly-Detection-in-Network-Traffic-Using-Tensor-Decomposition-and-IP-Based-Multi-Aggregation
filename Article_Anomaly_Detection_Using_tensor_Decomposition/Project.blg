@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2025/Homebrew)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Project.aux
+The style file: elsarticle-harv.bst
+Database file #1: References.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty booktitle in wu2021graph
+You've used 31 entries,
+            2990 wiz_defined-function locations,
+            818 strings with 11534 characters,
+and the built_in function-call counts, 22105 in all, are:
+= -- 1773
+> -- 862
+< -- 24
++ -- 338
+- -- 300
+* -- 2339
+:= -- 3146
+add.period$ -- 88
+call.type$ -- 31
+change.case$ -- 261
+chr.to.int$ -- 30
+cite$ -- 32
+duplicate$ -- 1650
+empty$ -- 1571
+format.name$ -- 391
+if$ -- 4225
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 301
+newline$ -- 165
+num.names$ -- 124
+pop$ -- 589
+preamble$ -- 1
+purify$ -- 224
+quote$ -- 0
+skip$ -- 591
+stack$ -- 0
+substring$ -- 972
+swap$ -- 1186
+text.length$ -- 11
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 279
+warning$ -- 1
+while$ -- 144
+width$ -- 0
+write$ -- 453
+(There was 1 warning)

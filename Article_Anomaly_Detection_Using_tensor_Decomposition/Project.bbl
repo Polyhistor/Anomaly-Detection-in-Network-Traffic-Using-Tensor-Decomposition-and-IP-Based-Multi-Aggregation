@@ -1,0 +1,165 @@
+\begin{thebibliography}{31}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Al-Habashna and Alqahtani(2021)}]{al2021machine}
+\bibinfo{author}{Al-Habashna, A.}, \bibinfo{author}{Alqahtani, S.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Machine learning for low-rate and stealthy dos attacks: A comparative study}.
+\newblock \bibinfo{journal}{Computer Networks} \bibinfo{volume}{190}, \bibinfo{pages}{107942}.
+%Type = Article
+\bibitem[{Biau and Scornet(2016)}]{biau2016randomforest}
+\bibinfo{author}{Biau, G.}, \bibinfo{author}{Scornet, E.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{A random forest guided tour}.
+\newblock \bibinfo{journal}{Test} \bibinfo{volume}{25}, \bibinfo{pages}{197--227}.
+\newblock \URLprefix \url{https://doi.org/10.1007/s11749-016-0481-7}, \DOIprefix\doi{10.1007/s11749-016-0481-7}.
+%Type = Inproceedings
+\bibitem[{Bruns-Smith et~al.(2015)Bruns-Smith, Baskaran, Ezick, Henretty and Lethin}]{bruns2016ensign}
+\bibinfo{author}{Bruns-Smith, D.}, \bibinfo{author}{Baskaran, M.M.}, \bibinfo{author}{Ezick, J.}, \bibinfo{author}{Henretty, T.}, \bibinfo{author}{Lethin, R.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Cyber security through multidimensional data decompositions}, in: \bibinfo{booktitle}{SC15: International Conference for High Performance Computing, Networking, Storage and Analysis}, \bibinfo{organization}{IEEE}. pp. \bibinfo{pages}{65:1--65:12}.
+\newblock \DOIprefix\doi{10.1145/2807591.2807621}.
+%Type = Article
+\bibitem[{Ding et~al.(2019)Ding, Guo, Ding and Han}]{ding2019acnet}
+\bibinfo{author}{Ding, X.}, \bibinfo{author}{Guo, Y.}, \bibinfo{author}{Ding, G.}, \bibinfo{author}{Han, J.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Acnet: Strengthening the kernel skeletons for powerful cnn via asymmetric convolution blocks}.
+\newblock \bibinfo{journal}{Proceedings of the IEEE/CVF International Conference on Computer Vision} , \bibinfo{pages}{1911--1920}.
+%Type = Article
+\bibitem[{Eren et~al.(2023)Eren, Moore, Skau, Moore, Bhattarai, Chennupati and Alexandrov}]{eren2023general}
+\bibinfo{author}{Eren, M.E.}, \bibinfo{author}{Moore, J.S.}, \bibinfo{author}{Skau, E.}, \bibinfo{author}{Moore, E.}, \bibinfo{author}{Bhattarai, M.}, \bibinfo{author}{Chennupati, G.}, \bibinfo{author}{Alexandrov, B.S.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{General-purpose unsupervised cyber anomaly detection via non-negative tensor factorization}.
+\newblock \bibinfo{journal}{Digital Threats: Research and Practice} \bibinfo{volume}{4}, \bibinfo{pages}{1--22}.
+\newblock \DOIprefix\doi{10.1145/3519602}.
+%Type = Misc
+\bibitem[{FM(2021)}]{rcglobal2021}
+\bibinfo{author}{FM, R.G.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Digital infrastructure as essential as power, water and roads}.
+\newblock \URLprefix \url{https://rcglobalfm.com.au/insights/digital-infrastructure-as-essential-as-power-water-and-roads.html}. \bibinfo{note}{accessed: 2025-09-04}.
+%Type = Article
+\bibitem[{Hilton(2016)}]{hilton2016dyn}
+\bibinfo{author}{Hilton, S.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Dyn analysis summary of friday october 21 attack}.
+\newblock \bibinfo{journal}{Dyn Blog} \URLprefix \url{https://www.dyn.com/blog/dyn-analysis-summary-of-friday-october-21-attack/}. \bibinfo{note}{accessed: 2025-06-14}.
+%Type = Inproceedings
+\bibitem[{Ioffe and Szegedy(2015)}]{ioffe2015batch}
+\bibinfo{author}{Ioffe, S.}, \bibinfo{author}{Szegedy, C.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Batch normalization: Accelerating deep network training by reducing internal covariate shift}, in: \bibinfo{booktitle}{International Conference on Machine Learning}, pp. \bibinfo{pages}{448--456}.
+%Type = Article
+\bibitem[{Jafarigiv et~al.(2023)Jafarigiv, Sheshyekani and Kassouf}]{jafarigiv2023tensor}
+\bibinfo{author}{Jafarigiv, D.}, \bibinfo{author}{Sheshyekani, K.}, \bibinfo{author}{Kassouf, M.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Tensor-based cybersecurity analysis of smart grids using it/ot convergence}.
+\newblock \bibinfo{journal}{IEEE Access} \bibinfo{volume}{11}, \bibinfo{pages}{73171--73186}.
+\newblock \DOIprefix\doi{10.1109/ACCESS.2023.3291234}.
+%Type = Article
+\bibitem[{Kolda and Bader(2009)}]{kolda2009tensor}
+\bibinfo{author}{Kolda, T.G.}, \bibinfo{author}{Bader, B.W.}, \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{Tensor decompositions and applications}.
+\newblock \bibinfo{journal}{SIAM Review} \bibinfo{volume}{51}, \bibinfo{pages}{455--500}.
+%Type = Article
+\bibitem[{Kruskal(1977)}]{kruskal1977three}
+\bibinfo{author}{Kruskal, J.B.}, \bibinfo{year}{1977}.
+\newblock \bibinfo{title}{Three-way arrays: rank and uniqueness of trilinear decompositions, with application to arithmetic complexity and statistics}.
+\newblock \bibinfo{journal}{Linear Algebra and Its Applications} \bibinfo{volume}{18}, \bibinfo{pages}{95--138}.
+%Type = Article
+\bibitem[{Kumar et~al.(2023)Kumar, Patel and Robinson}]{limitation2023generalization}
+\bibinfo{author}{Kumar, S.}, \bibinfo{author}{Patel, N.}, \bibinfo{author}{Robinson, C.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Generalization challenges in machine learning-based network security solutions}.
+\newblock \bibinfo{journal}{Cybersecurity} \bibinfo{volume}{6}, \bibinfo{pages}{1--18}.
+%Type = Article
+\bibitem[{Labach et~al.(2019)Labach, Salehinejad and Valaee}]{labach2019survey}
+\bibinfo{author}{Labach, A.}, \bibinfo{author}{Salehinejad, H.}, \bibinfo{author}{Valaee, S.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Survey of dropout methods for deep neural networks}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:1904.13310} .
+%Type = Inproceedings
+\bibitem[{Lee and Seung(2000)}]{lee2000nmf}
+\bibinfo{author}{Lee, D.D.}, \bibinfo{author}{Seung, H.S.}, \bibinfo{year}{2000}.
+\newblock \bibinfo{title}{Algorithms for non-negative matrix factorization}, in: \bibinfo{booktitle}{Advances in Neural Information Processing Systems 13}, \bibinfo{publisher}{MIT Press}, \bibinfo{address}{Denver, CO, USA}. pp. \bibinfo{pages}{535--541}.
+%Type = Inproceedings
+\bibitem[{Li et~al.(2019)Li, Chen, Hu and Yang}]{li2019understanding}
+\bibinfo{author}{Li, X.}, \bibinfo{author}{Chen, S.}, \bibinfo{author}{Hu, X.}, \bibinfo{author}{Yang, J.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Understanding the disharmony between dropout and batch normalization by variance shift}, in: \bibinfo{booktitle}{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition}, pp. \bibinfo{pages}{2682--2690}.
+%Type = Article
+\bibitem[{Marukatat(2022)}]{marukatat2022tutorial}
+\bibinfo{author}{Marukatat, S.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Tutorial on pca and approximate pca and approximate kernel pca}.
+\newblock \bibinfo{journal}{PeerJ Computer Science} \DOIprefix\doi{10.7717/peerj-cs.493}. \bibinfo{note}{published online: October 31, 2022, © The Author(s) 2022}.
+%Type = Article
+\bibitem[{Most et~al.(2023)Most, Eren, Alexandrov and Lawrence}]{most2023electrical}
+\bibinfo{author}{Most, A.B.}, \bibinfo{author}{Eren, M.E.}, \bibinfo{author}{Alexandrov, B.S.}, \bibinfo{author}{Lawrence, N.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Electrical grid anomaly detection via tensor decomposition}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:2310.08650} \href{http://arxiv.org/abs/2310.08650}{{\tt arXiv:2310.08650}}. \bibinfo{note}{version 1, submitted October 12, 2023}.
+%Type = Misc
+\bibitem[{{Palo Alto Networks}(2024)}]{paloaltonetworks2024}
+\bibinfo{author}{{Palo Alto Networks}}, \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Denial of service (dos) attacks: Comprehensive insights}.
+\newblock \URLprefix \url{https://www.paloaltonetworks.com/cyberpedia/what-is-a-denial-of-service-attack-dos}. \bibinfo{note}{accessed: 2025-06-14}.
+%Type = Article
+\bibitem[{Patcha and Park(2007)}]{patcha2007overview}
+\bibinfo{author}{Patcha, A.}, \bibinfo{author}{Park, J.}, \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{An overview of anomaly detection techniques: Existing solutions and latest technological trends}.
+\newblock \bibinfo{journal}{Computer Networks} \bibinfo{volume}{51}, \bibinfo{pages}{3448--3470}.
+%Type = Misc
+\bibitem[{Rabbani et~al.(2024)Rabbani, Gui, Nejati, Zhou, Kaniyamattam, Mirani, Piya, Opushnyev, Lu and Ghorbani}]{rabbani2024iot-diad}
+\bibinfo{author}{Rabbani, M.}, \bibinfo{author}{Gui, J.}, \bibinfo{author}{Nejati, F.}, \bibinfo{author}{Zhou, Z.}, \bibinfo{author}{Kaniyamattam, A.}, \bibinfo{author}{Mirani, M.}, \bibinfo{author}{Piya, G.}, \bibinfo{author}{Opushnyev, I.}, \bibinfo{author}{Lu, R.}, \bibinfo{author}{Ghorbani, A.A.}, \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Cic iot-diad 2024 dataset: a dual-function dataset for iot device identification and anomaly detection}.
+\newblock \URLprefix \url{https://www.unb.ca/cic/datasets/iot-diad-2024.html}.
+%Type = Article
+\bibitem[{Ranjbar et~al.(2018)Ranjbar, Salehi, Jandaghi and Jalili}]{ranjbar2018qanet}
+\bibinfo{author}{Ranjbar, V.}, \bibinfo{author}{Salehi, M.}, \bibinfo{author}{Jandaghi, P.}, \bibinfo{author}{Jalili, M.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Qanet: Tensor decomposition approach for query-based anomaly detection in heterogeneous information networks}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:1810.09306} .
+%Type = Inproceedings
+\bibitem[{Rippel et~al.(2015)Rippel, Snoek and Adams}]{rippel2015spectral}
+\bibinfo{author}{Rippel, O.}, \bibinfo{author}{Snoek, J.}, \bibinfo{author}{Adams, R.P.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Spectral representations for convolutional neural networks}, in: \bibinfo{booktitle}{Advances in Neural Information Processing Systems}, pp. \bibinfo{pages}{2449--2457}.
+%Type = Article
+\bibitem[{Streit et~al.(2021)Streit, Santos, Leão, de~Souza~e Silva, Menasché and Towsley}]{streit2021network}
+\bibinfo{author}{Streit, A.}, \bibinfo{author}{Santos, G.H.A.}, \bibinfo{author}{Leão, R.M.M.}, \bibinfo{author}{de~Souza~e Silva, E.}, \bibinfo{author}{Menasché, D.}, \bibinfo{author}{Towsley, D.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Network anomaly detection based on tensor decomposition}.
+\newblock \bibinfo{journal}{Computer Networks} \bibinfo{volume}{200}, \bibinfo{pages}{108503}.
+\newblock \DOIprefix\doi{10.1016/j.comnet.2021.108503}.
+%Type = Article
+\bibitem[{Su(2025)}]{Su2025Robust}
+\bibinfo{author}{Su, B.}, \bibinfo{year}{2025}.
+\newblock \bibinfo{title}{Robust anomaly detection via tensor pseudoskeleton decomposition}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:2502.09926} \href{http://arxiv.org/abs/2502.09926}{{\tt arXiv:2502.09926}}. \bibinfo{note}{version 3, submitted March 4 2025}.
+%Type = Inproceedings
+\bibitem[{Sun et~al.(2006a)Sun, Papadimitriou and Yu}]{sun2006beyond}
+\bibinfo{author}{Sun, J.}, \bibinfo{author}{Papadimitriou, S.}, \bibinfo{author}{Yu, P.S.}, \bibinfo{year}{2006}a.
+\newblock \bibinfo{title}{Window-based tensor analysis on high-dimensional and multi-aspect streams}, in: \bibinfo{booktitle}{Proceedings of the Sixth International Conference on Data Mining}, pp. \bibinfo{pages}{1076--1080}.
+%Type = Inproceedings
+\bibitem[{Sun et~al.(2006b)Sun, Tao and Faloutsos}]{sun2006incremental}
+\bibinfo{author}{Sun, J.}, \bibinfo{author}{Tao, D.}, \bibinfo{author}{Faloutsos, C.}, \bibinfo{year}{2006}b.
+\newblock \bibinfo{title}{Beyond streams and graphs: Dynamic tensor analysis}, in: \bibinfo{booktitle}{Proceedings of the 12th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining}, pp. \bibinfo{pages}{374--383}.
+%Type = Misc
+\bibitem[{{TensorFlow Addons Maintainers}(2021)}]{tensorflow_addons2021}
+\bibinfo{author}{{TensorFlow Addons Maintainers}}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Tensorflow addons}.
+\newblock \URLprefix \url{https://doi.org/10.5281/zenodo.4724125}, \DOIprefix\doi{10.5281/zenodo.4724125}.
+%Type = Inproceedings
+\bibitem[{Wu et~al.(2021)Wu, Pan, Chen, Long, Zhang and Yu}]{wu2021graph}
+\bibinfo{author}{Wu, Z.}, \bibinfo{author}{Pan, S.}, \bibinfo{author}{Chen, F.}, \bibinfo{author}{Long, G.}, \bibinfo{author}{Zhang, C.}, \bibinfo{author}{Yu, P.S.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{A comprehensive survey on graph neural networks}, pp. \bibinfo{pages}{4--24}.
+%Type = Inproceedings
+\bibitem[{Xie et~al.(2018)Xie, Li, Wang, Xie, Wen and Zhang}]{xie2018graph}
+\bibinfo{author}{Xie, K.}, \bibinfo{author}{Li, X.}, \bibinfo{author}{Wang, X.}, \bibinfo{author}{Xie, G.}, \bibinfo{author}{Wen, J.}, \bibinfo{author}{Zhang, D.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Graph-based tensor recovery for accurate internet anomaly detection}, in: \bibinfo{booktitle}{IEEE INFOCOM 2018-IEEE Conference on Computer Communications}, \bibinfo{organization}{IEEE}. pp. \bibinfo{pages}{2071--2079}.
+\newblock \DOIprefix\doi{10.1109/INFOCOM.2018.8486421}.
+%Type = Inproceedings
+\bibitem[{Xie et~al.(2016)Xie, Wang, Wang and Wen}]{kun2016accurate}
+\bibinfo{author}{Xie, K.}, \bibinfo{author}{Wang, L.}, \bibinfo{author}{Wang, J.}, \bibinfo{author}{Wen, Y.G.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Accurate recovery of internet traffic data: A tensor completion approach}, in: \bibinfo{booktitle}{Proceedings of IEEE INFOCOM}, \bibinfo{publisher}{IEEE}. pp. \bibinfo{pages}{1--9}.
+%Type = Inproceedings
+\bibitem[{Zhang et~al.(2019)Zhang, Yu and Zhou}]{zhang2019hybrid}
+\bibinfo{author}{Zhang, J.}, \bibinfo{author}{Yu, P.S.}, \bibinfo{author}{Zhou, Y.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Meta-path based multi-network collective link prediction}, in: \bibinfo{booktitle}{Proceedings of the 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining}, pp. \bibinfo{pages}{1286--1295}.
+
+\end{thebibliography}
