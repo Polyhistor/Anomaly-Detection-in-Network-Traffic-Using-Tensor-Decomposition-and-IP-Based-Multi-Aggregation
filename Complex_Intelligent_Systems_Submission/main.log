@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.9.7)  27 OCT 2025 09:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.9.7)  27 OCT 2025 09:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -879,43 +879,21 @@ Package caption Info: End \AtBeginDocument code.
 Package pgfplots notification 'compat/show suggested version=true': document has been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 
 \c@lstlisting=\count375
-LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 61.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 61.
+LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 63.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 63.
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 61.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 63.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 61.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 63.
  (/usr/share/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-
-LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <8.43146> not available
-(Font)              size <8> substituted on input line 61.
-
-LaTeX Font Info:    Trying to load font information for U+stmry on input line 61.
-(/usr/share/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
-
-LaTeX Font Warning: Font shape `U/stmry/b/n' undefined
-(Font)              using `U/stmry/m/n' instead on input line 61.
-
-
-LaTeX Font Warning: Font shape `U/stmry/b/n' in size <8.43146> not available
-(Font)              size <8> substituted on input line 61.
-
-LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 61.
-
-LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <5.52061> not available
-(Font)              size <6> substituted on input line 61.
-
-
-LaTeX Font Warning: Font shape `U/stmry/b/n' in size <5.52061> not available
-(Font)              size <6> substituted on input line 61.
-
-
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 63.
+ (/usr/share/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -923,8 +901,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 61.
-
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -935,12 +911,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3]
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [4]
-<Framework_Overview.png, id=141, 1169.3286pt x 1113.6807pt>
+<Framework_Overview.png, id=128, 1169.3286pt x 1113.6807pt>
 File: Framework_Overview.png Graphic file (type png)
 <use Framework_Overview.png>
 Package pdftex.def Info: Framework_Overview.png  used on input line 126.
@@ -955,13 +926,18 @@ Overfull \hbox (66.95728pt too wide) in paragraph at lines 126--127
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5]
+ [4]
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [6 <./Framework_Overview.png>]
-<Sh (1).png, id=160, 387.3672pt x 307.8702pt>
+ [5 <./Framework_Overview.png>]
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+<Sh (1).png, id=155, 387.3672pt x 307.8702pt>
 File: Sh (1).png Graphic file (type png)
 <use Sh (1).png>
 Package pdftex.def Info: Sh (1).png  used on input line 166.
@@ -971,12 +947,17 @@ Package pdftex.def Info: Sh (1).png  used on input line 166.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7]
+ [7 <./Sh (1).png>]
+
+LaTeX Font Warning: Font shape `U/stmry/b/n' undefined
+(Font)              using `U/stmry/m/n' instead on input line 199.
+
+
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [8 <./Sh (1).png>]
+ [8]
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -987,7 +968,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [10]
-<neuro network.png, id=219, 178.16562pt x 285.065pt>
+<neuro network.png, id=216, 178.16562pt x 285.065pt>
 File: neuro network.png Graphic file (type png)
 <use neuro network.png>
 Package pdftex.def Info: neuro network.png  used on input line 326.
@@ -997,13 +978,8 @@ Package pdftex.def Info: neuro network.png  used on input line 326.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [11]
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [12 <./neuro network.png>]
-<Compression Graph.png, id=244, 617.9085pt x 395.3169pt>
+ [11 <./neuro network.png>]
+<Compression Graph.png, id=230, 617.9085pt x 395.3169pt>
 File: Compression Graph.png Graphic file (type png)
 <use Compression Graph.png>
 Package pdftex.def Info: Compression Graph.png  used on input line 358.
@@ -1013,7 +989,7 @@ Package pdftex.def Info: Compression Graph.png  used on input line 358.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13]
+ [12]
 Overfull \hbox (89.87122pt too wide) in paragraph at lines 507--508
  [][] 
  []
@@ -1023,8 +999,8 @@ Overfull \hbox (89.87122pt too wide) in paragraph at lines 507--508
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14 <./Compression Graph.png>]
-<Source IP mode.png, id=266, 1078.9911pt x 281.853pt>
+ [13 <./Compression Graph.png>]
+<Source IP mode.png, id=257, 1078.9911pt x 281.853pt>
 File: Source IP mode.png Graphic file (type png)
 <use Source IP mode.png>
 Package pdftex.def Info: Source IP mode.png  used on input line 518.
@@ -1039,8 +1015,8 @@ Overfull \hbox (74.39886pt too wide) in paragraph at lines 518--520
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15]
-<Destination IP mode.png, id=272, 1079.7138pt x 281.1303pt>
+ [14]
+<Destination IP mode.png, id=263, 1079.7138pt x 281.1303pt>
 File: Destination IP mode.png Graphic file (type png)
 <use Destination IP mode.png>
 Package pdftex.def Info: Destination IP mode.png  used on input line 531.
@@ -1055,7 +1031,7 @@ Overfull \hbox (74.39886pt too wide) in paragraph at lines 531--532
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [16 <./Source IP mode.png> <./Destination IP mode.png>]
+ [15 <./Source IP mode.png> <./Destination IP mode.png>]
 Overfull \hbox (96.41956pt too wide) in paragraph at lines 617--618
  [][] 
  []
@@ -1065,8 +1041,8 @@ Overfull \hbox (96.41956pt too wide) in paragraph at lines 617--618
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [17]
-<projection test plot.png, id=288, 502.2765pt x 323.7696pt>
+ [16]
+<projection test plot.png, id=279, 502.2765pt x 323.7696pt>
 File: projection test plot.png Graphic file (type png)
 <use projection test plot.png>
 Package pdftex.def Info: projection test plot.png  used on input line 630.
@@ -1075,12 +1051,12 @@ File: projection test plot.png Graphic file (type png)
 <use projection test plot.png>
 Package pdftex.def Info: projection test plot.png  used on input line 637.
 (pdftex.def)             Requested size: 178.55841pt x 115.09956pt.
-<train errors.png, id=291, 612.1269pt x 363.5181pt>
+<train errors.png, id=282, 612.1269pt x 363.5181pt>
 File: train errors.png Graphic file (type png)
 <use train errors.png>
 Package pdftex.def Info: train errors.png  used on input line 649.
 (pdftex.def)             Requested size: 178.55841pt x 106.03879pt.
-<test error.png, id=292, 600.5637pt x 364.9635pt>
+<test error.png, id=283, 600.5637pt x 364.9635pt>
 File: test error.png Graphic file (type png)
 <use test error.png>
 Package pdftex.def Info: test error.png  used on input line 656.
@@ -1090,63 +1066,63 @@ Package pdftex.def Info: test error.png  used on input line 656.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [18 <./projection test plot.png>]
-<rank_1.png, id=303, 310.761pt x 285.4665pt>
+ [17 <./projection test plot.png>]
+<rank_1.png, id=294, 310.761pt x 285.4665pt>
 File: rank_1.png Graphic file (type png)
 <use rank_1.png>
 Package pdftex.def Info: rank_1.png  used on input line 672.
 (pdftex.def)             Requested size: 111.60114pt x 102.51521pt.
-<rank_2.png, id=304, 312.9291pt x 285.4665pt>
+<rank_2.png, id=295, 312.9291pt x 285.4665pt>
 File: rank_2.png Graphic file (type png)
 <use rank_2.png>
 Package pdftex.def Info: rank_2.png  used on input line 673.
 (pdftex.def)             Requested size: 111.60114pt x 101.8052pt.
-<rank_3.png, id=305, 313.6518pt x 284.7438pt>
+<rank_3.png, id=296, 313.6518pt x 284.7438pt>
 File: rank_3.png Graphic file (type png)
 <use rank_3.png>
 Package pdftex.def Info: rank_3.png  used on input line 674.
 (pdftex.def)             Requested size: 111.60114pt x 101.31285pt.
-<rank_4.png, id=306, 310.761pt x 284.7438pt>
+<rank_4.png, id=297, 310.761pt x 284.7438pt>
 File: rank_4.png Graphic file (type png)
 <use rank_4.png>
 Package pdftex.def Info: rank_4.png  used on input line 685.
 (pdftex.def)             Requested size: 111.60114pt x 102.25568pt.
-<rank_5.png, id=307, 311.4837pt x 284.7438pt>
+<rank_5.png, id=298, 311.4837pt x 284.7438pt>
 File: rank_5.png Graphic file (type png)
 <use rank_5.png>
 Package pdftex.def Info: rank_5.png  used on input line 686.
 (pdftex.def)             Requested size: 111.60114pt x 102.02106pt.
-<rank_6.png, id=308, 311.4837pt x 286.1892pt>
+<rank_6.png, id=299, 311.4837pt x 286.1892pt>
 File: rank_6.png Graphic file (type png)
 <use rank_6.png>
 Package pdftex.def Info: rank_6.png  used on input line 687.
 (pdftex.def)             Requested size: 111.60114pt x 102.53893pt.
-<rank_7.png, id=309, 312.2064pt x 289.08pt>
+<rank_7.png, id=300, 312.2064pt x 289.08pt>
 File: rank_7.png Graphic file (type png)
 <use rank_7.png>
 Package pdftex.def Info: rank_7.png  used on input line 690.
 (pdftex.def)             Requested size: 111.60114pt x 103.33208pt.
-<rank_8.png, id=310, 313.6518pt x 284.7438pt>
+<rank_8.png, id=301, 313.6518pt x 284.7438pt>
 File: rank_8.png Graphic file (type png)
 <use rank_8.png>
 Package pdftex.def Info: rank_8.png  used on input line 691.
 (pdftex.def)             Requested size: 111.60114pt x 101.31285pt.
-<rank_9.png, id=311, 312.9291pt x 288.3573pt>
+<rank_9.png, id=302, 312.9291pt x 288.3573pt>
 File: rank_9.png Graphic file (type png)
 <use rank_9.png>
 Package pdftex.def Info: rank_9.png  used on input line 692.
 (pdftex.def)             Requested size: 111.60114pt x 102.83615pt.
-<rank_10.png, id=312, 312.2064pt x 286.1892pt>
+<rank_10.png, id=303, 312.2064pt x 286.1892pt>
 File: rank_10.png Graphic file (type png)
 <use rank_10.png>
 Package pdftex.def Info: rank_10.png  used on input line 695.
 (pdftex.def)             Requested size: 111.60114pt x 102.29875pt.
-<rank_11.png, id=313, 312.2064pt x 286.9119pt>
+<rank_11.png, id=304, 312.2064pt x 286.9119pt>
 File: rank_11.png Graphic file (type png)
 <use rank_11.png>
 Package pdftex.def Info: rank_11.png  used on input line 696.
 (pdftex.def)             Requested size: 111.60114pt x 102.55708pt.
-<rank_12.png, id=314, 312.2064pt x 285.4665pt>
+<rank_12.png, id=305, 312.2064pt x 285.4665pt>
 File: rank_12.png Graphic file (type png)
 <use rank_12.png>
 Package pdftex.def Info: rank_12.png  used on input line 697.
@@ -1156,23 +1132,23 @@ Package pdftex.def Info: rank_12.png  used on input line 697.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [19 <./train errors.png> <./test error.png> <./rank_1.png> <./rank_2.png> <./rank_3.png>]
-<rank_13.png, id=328, 310.761pt x 286.9119pt>
+ [18 <./train errors.png> <./test error.png> <./rank_1.png> <./rank_2.png> <./rank_3.png>]
+<rank_13.png, id=318, 310.761pt x 286.9119pt>
 File: rank_13.png Graphic file (type png)
 <use rank_13.png>
 Package pdftex.def Info: rank_13.png  used on input line 709.
 (pdftex.def)             Requested size: 111.60114pt x 103.03427pt.
-<rank_14.png, id=329, 311.4837pt x 285.4665pt>
+<rank_14.png, id=319, 311.4837pt x 285.4665pt>
 File: rank_14.png Graphic file (type png)
 <use rank_14.png>
 Package pdftex.def Info: rank_14.png  used on input line 710.
 (pdftex.def)             Requested size: 111.60114pt x 102.28pt.
-<rank_15.png, id=330, 311.4837pt x 282.5757pt>
+<rank_15.png, id=320, 311.4837pt x 282.5757pt>
 File: rank_15.png Graphic file (type png)
 <use rank_15.png>
 Package pdftex.def Info: rank_15.png  used on input line 711.
 (pdftex.def)             Requested size: 111.60114pt x 101.24425pt.
-<rank_16.png, id=331, 311.4837pt x 286.1892pt>
+<rank_16.png, id=321, 311.4837pt x 286.1892pt>
 File: rank_16.png Graphic file (type png)
 <use rank_16.png>
 Package pdftex.def Info: rank_16.png  used on input line 714.
@@ -1182,8 +1158,8 @@ Package pdftex.def Info: rank_16.png  used on input line 714.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [20 <./rank_4.png> <./rank_5.png> <./rank_6.png> <./rank_7.png> <./rank_8.png> <./rank_9.png> <./rank_10.png> <./rank_11.png> <./rank_12.png>]
-<accu.png, id=346, 921.94438pt x 357.83687pt>
+ [19 <./rank_4.png> <./rank_5.png> <./rank_6.png> <./rank_7.png> <./rank_8.png> <./rank_9.png> <./rank_10.png> <./rank_11.png> <./rank_12.png>]
+<accu.png, id=337, 921.94438pt x 357.83687pt>
 File: accu.png Graphic file (type png)
 <use accu.png>
 Package pdftex.def Info: accu.png  used on input line 725.
@@ -1198,8 +1174,8 @@ Overfull \hbox (37.20227pt too wide) in paragraph at lines 725--726
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [21 <./rank_13.png> <./rank_14.png> <./rank_15.png> <./rank_16.png>]
-<recall.png, id=359, 956.07187pt x 381.425pt>
+ [20 <./rank_13.png> <./rank_14.png> <./rank_15.png> <./rank_16.png>]
+<recall.png, id=349, 956.07187pt x 381.425pt>
 File: recall.png Graphic file (type png)
 <use recall.png>
 Package pdftex.def Info: recall.png  used on input line 734.
@@ -1209,7 +1185,7 @@ Overfull \hbox (37.20227pt too wide) in paragraph at lines 734--735
  [][] 
  []
 
-<F1-score.png, id=360, 918.43124pt x 380.92313pt>
+<F1-score.png, id=350, 918.43124pt x 380.92313pt>
 File: F1-score.png Graphic file (type png)
 <use F1-score.png>
 Package pdftex.def Info: F1-score.png  used on input line 742.
@@ -1219,7 +1195,7 @@ Package pdftex.def Info: F1-score.png  used on input line 742.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [22 <./accu.png> <./recall.png>]
+ [21 <./accu.png> <./recall.png>]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 749.
@@ -1238,13 +1214,13 @@ LaTeX Font Warning: Font shape `U/stmry/m/n' in size <4.015> not available
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23 <./F1-score.png>]
-<Decision tree.png, id=380, 315.8199pt x 286.1892pt>
+ [22 <./F1-score.png>]
+<Decision tree.png, id=371, 315.8199pt x 286.1892pt>
 File: Decision tree.png Graphic file (type png)
 <use Decision tree.png>
 Package pdftex.def Info: Decision tree.png  used on input line 788.
 (pdftex.def)             Requested size: 186.0pt x 168.54883pt.
-<Random Forest.png, id=381, 315.0972pt x 286.9119pt>
+<Random Forest.png, id=372, 315.0972pt x 286.9119pt>
 File: Random Forest.png Graphic file (type png)
 <use Random Forest.png>
 Package pdftex.def Info: Random Forest.png  used on input line 789.
@@ -1254,12 +1230,12 @@ Overfull \hbox (24.00003pt too wide) in paragraph at lines 787--793
  [][] 
  []
 
-<support vector Machine.png, id=382, 312.9291pt x 286.9119pt>
+<support vector Machine.png, id=373, 312.9291pt x 286.9119pt>
 File: support vector Machine.png Graphic file (type png)
 <use support vector Machine.png>
 Package pdftex.def Info: support vector Machine.png  used on input line 801.
 (pdftex.def)             Requested size: 186.0pt x 170.53738pt.
-<LSTM.png, id=383, 316.5426pt x 289.8027pt>
+<LSTM.png, id=374, 316.5426pt x 289.8027pt>
 File: LSTM.png Graphic file (type png)
 <use LSTM.png>
 Package pdftex.def Info: LSTM.png  used on input line 802.
@@ -1274,8 +1250,8 @@ Overfull \hbox (24.00003pt too wide) in paragraph at lines 800--806
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [24 <./Decision tree.png> <./Random Forest.png>]
-<compa3.png, id=393, 847.66687pt x 391.96437pt>
+ [23 <./Decision tree.png> <./Random Forest.png>]
+<compa3.png, id=384, 847.66687pt x 391.96437pt>
 File: compa3.png Graphic file (type png)
 <use compa3.png>
 Package pdftex.def Info: compa3.png  used on input line 814.
@@ -1290,7 +1266,12 @@ Overfull \hbox (18.60114pt too wide) in paragraph at lines 814--816
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [25 <./support vector Machine.png> <./LSTM.png> <./compa3.png>]
+ [24 <./support vector Machine.png> <./LSTM.png> <./compa3.png>]
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25]
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1300,17 +1281,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [27]
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [28]
-
-Package hyperref Warning: Difference (4) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 880.
-
-(./main.bbl
+ [27] (./main.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 49--56
 []\OT1/cmr/m/n/10 FM, R.G.: Dig-i-tal infras-truc-ture as essen-tial as power, water and
  []
@@ -1325,8 +1296,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--56
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [29]
-Underfull \hbox (badness 1112) in paragraph at lines 106--113
+ [28]
+Underfull \hbox (badness 1112) in paragraph at lines 103--110
 \OT1/cmr/m/n/10 Accessed: 2025-06-14 (2024). [][]$https : / / www . paloaltonetworks . com / cyberpedia /
  []
 
@@ -1335,17 +1306,17 @@ Underfull \hbox (badness 1112) in paragraph at lines 106--113
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [30]
+ [29]
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [31])
+ [30])
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [32] (./main.aux)
+ [31] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -1359,21 +1330,21 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 3F5A4DA6926E903064B45932E9467AE0;2573.
+(rerunfilecheck)             Checksum: DE5BD46B10D8839476A12F257E2ED9AD;2439.
  ) 
 Here is how much of TeX's memory you used:
- 38538 strings out of 474487
- 861380 string characters out of 5749025
- 1398061 words of memory out of 5000000
- 60827 multiletter control sequences out of 15000+600000
- 587806 words of font info for 147 fonts, out of 8000000 for 9000
+ 38467 strings out of 474487
+ 860217 string characters out of 5749025
+ 1398282 words of memory out of 5000000
+ 60761 multiletter control sequences out of 15000+600000
+ 576828 words of font info for 104 fonts, out of 8000000 for 9000
  405 hyphenation exceptions out of 8191
  90i,19n,93p,1598b,2245s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/stmaryrd/stmary10.pfb>
-Output written on main.pdf (32 pages, 2668360 bytes).
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/stmaryrd/stmary10.pfb>
+Output written on main.pdf (31 pages, 2651256 bytes).
 PDF statistics:
- 591 PDF objects out of 1000 (max. 8388607)
- 440 compressed objects within 5 object streams
- 137 named destinations out of 1000 (max. 500000)
- 298 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 577 PDF objects out of 1000 (max. 8388607)
+ 429 compressed objects within 5 object streams
+ 134 named destinations out of 1000 (max. 500000)
+ 290 words of extra memory for PDF output out of 10000 (max. 10000000)
 

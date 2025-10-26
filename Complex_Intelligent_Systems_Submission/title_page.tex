@@ -1,0 +1,77 @@
+\documentclass[pdflatex,sn-mathphys-num]{sn-jnl}
+
+\usepackage{graphicx}
+\usepackage{multirow}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{amsthm}
+\usepackage{mathrsfs}
+\usepackage[title]{appendix}
+\usepackage{xcolor}
+\usepackage{textcomp}
+\usepackage{manyfoot}
+\usepackage{booktabs}
+\usepackage{float}
+\usepackage{subcaption}
+\usepackage{stmaryrd}
+
+\raggedbottom
+
+\begin{document}
+
+\title[Anomaly Detection Using Tensor Decomposition]{Anomaly Detection in Network Traffic Using Tensor Decomposition and IP-Based Multi-Aggregation}
+
+\author*[1]{\fnm{Jospin Price Yonel} \sur{Mitsouma}}\email{jospinprice@gmail.com}
+
+\author[2]{\fnm{Pouya} \sur{Ataei}}\email{pouya.ataei.7@gmail.com}
+
+\author[3,4]{\fnm{Marcellin} \sur{Atemkeng}}\email{m.atemkeng@ru.ac.za}
+
+\author[1]{\fnm{Emmanuel} \sur{Fouotsa}}\email{emmanuelfouotsa@gmail.com}
+
+\affil*[1]{\orgdiv{}, \orgname{Center For Cybersecurity and Mathematical Cryptology}, \orgaddress{\street{}, \city{Bamenda}, \postcode{}, \state{}, \country{Cameroon}}}
+
+\affil[2]{\orgdiv{}, \orgname{Scholarspark.ai}, \orgaddress{\street{68A Hendon Avenue Mount Albert}, \city{Auckland}, \postcode{}, \state{}, \country{New Zealand}}}
+
+\affil[3]{\orgdiv{Department of Mathematics}, \orgname{Rhodes University}, \orgaddress{\street{PO Box 94}, \city{Grahamstown}, \postcode{6140}, \state{}, \country{South Africa}}}
+
+\affil[4]{\orgdiv{}, \orgname{National Institute for Theoretical and Computational Sciences}, \orgaddress{\street{}, \city{Stellenbosch}, \postcode{7600}, \state{}, \country{South Africa}}}
+
+\abstract{The proliferation of connected devices in today's interconnected world has created the need for sophisticated anomaly detection systems capable of rapidly identifying abnormal behaviours within massive and heterogeneous data streams. However, traditional anomaly detection systems generally process data in a two-dimensional format, which limits their ability to capture the inherently multidimensional structure of communication data. Tensors provide a principled framework for representing multidimensional data. Nevertheless, tensor-based anomaly detection methods remain predominantly experimental and are subject to inherent limitations that constrain their practical applicability. In this work, we propose a framework that integrates CP decomposition, distinguished by its essential uniqueness (up to permutation and scaling of rank-one components) with IP based multi-aggregation and deep learning, incorporating an automatic rank selection mechanism to optimize the detection of anomalies in network traffic. The method was evaluated using the CIC-IoT 2024 dataset, achieving an accuracy of 99.96\% and a recall of 99.6\%.}
+
+\keywords{Tensor decomposition, Multi-aggregation, Deep Learning, Anomaly detection, Network security}
+
+\maketitle
+
+\section*{Acknowledgements}
+Thanks the National Research Foundation of South Africa for support through project number CSRP23040990793.
+
+\section*{Declarations}
+
+\subsection*{Funding}
+This research was supported by the National Research Foundation of South Africa through project number CSRP23040990793.
+
+\subsection*{Conflict of Interest}
+The authors declare that they have no conflict of interest.
+
+\subsection*{Data availability}
+The data used in our study are publicly available and can be accessed at \url{http://cicresearch.ca/IOTDataset/CIC%20IoT-IDAD%20Dataset%202024/}. This dataset, known as the CIC IoT-IDAD 2024 Dataset, provides a comprehensive collection of IoT network traffic, including both normal and malicious patterns, making it suitable for anomaly detection and cybersecurity research.
+
+\subsection*{Author contributions}
+\textbf{Jospin Price Yonel Mitsouma:} Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Software, Visualisation, Writing -- original draft, Writing -- review \& editing. 
+
+\textbf{Pouya Ataei:} Conceptualization, Methodology, Formal analysis, Visualisation, Writing--review \& editing, Supervision, Coding, Creating the Actual Pipeline, Mathematics, Validation. 
+
+\textbf{Marcellin Atemkeng:} Conceptualization, Methodology, Visualisation, Formal analysis, Writing -- review \& editing, Supervision, Validation. 
+
+\textbf{Emmanuel Fouotsa:} Resources, Writing -- review \& editing, Validation, Funding acquisition, Supervision.
+
+\subsection*{Ethics approval}
+Not applicable.
+
+\subsection*{Consent to participate}
+Not applicable.
+
+\subsection*{Consent for publication}
+Not applicable.
+
+\end{document}

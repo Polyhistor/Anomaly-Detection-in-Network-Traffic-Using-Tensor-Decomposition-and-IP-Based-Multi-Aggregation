@@ -59,8 +59,7 @@ Accessed: 2025-09-04
 \begin{barticle}
 \bauthor{\bsnm{Patcha}, \binits{A.}},
 \bauthor{\bsnm{Park}, \binits{J.M.}}:
-\batitle{An overview of anomaly detection techniques: Existing solutions and
-  latest technological trends}.
+\batitle{An overview of anomaly detection techniques: Existing solutions and latest technological trends}.
 \bjtitle{Computer Networks}
 \bvolume{51}(\bissue{12}),
 \bfpage{3448}--\blpage{3470}
@@ -78,8 +77,7 @@ Accessed: 2025-09-04
 \bauthor{\bsnm{Bhattarai}, \binits{M.}},
 \bauthor{\bsnm{Chennupati}, \binits{G.}},
 \bauthor{\bsnm{Alexandrov}, \binits{B.S.}}:
-\batitle{General-purpose unsupervised cyber anomaly detection via non-negative
-  tensor factorization}.
+\batitle{General-purpose unsupervised cyber anomaly detection via non-negative tensor factorization}.
 \bjtitle{Digital Threats: Research and Practice}
 \bvolume{4}(\bissue{1}),
 \bfpage{1}--\blpage{22}
@@ -100,8 +98,7 @@ Accessed: 2025-06-14
 \endbibitem
 
 %%% 5
-\bibitem[\protect\citeauthoryear{{Palo Alto
-  Networks}}{2024}]{paloaltonetworks2024}
+\bibitem[\protect\citeauthoryear{{Palo Alto Networks}}{2024}]{paloaltonetworks2024}
 \begin{botherref}
 \oauthor{\bsnm{{Palo Alto Networks}}}:
 Denial of Service (DoS) Attacks: Comprehensive Insights.
@@ -184,8 +181,7 @@ Version 3, submitted March 4 2025
 \oauthor{\bsnm{Salehi}, \binits{M.}},
 \oauthor{\bsnm{Jandaghi}, \binits{P.}},
 \oauthor{\bsnm{Jalili}, \binits{M.}}:
-Qanet: Tensor decomposition approach for query-based anomaly detection in
-  heterogeneous information networks.
+Qanet: Tensor decomposition approach for query-based anomaly detection in heterogeneous information networks.
 arXiv preprint arXiv:1810.09306
 (2018)
 \end{botherref}
@@ -200,8 +196,7 @@ arXiv preprint arXiv:1810.09306
 \bauthor{\bsnm{Henretty}, \binits{T.}},
 \bauthor{\bsnm{Lethin}, \binits{R.}}:
 \bctitle{Cyber security through multidimensional data decompositions}.
-In: \bbtitle{SC15: International Conference for High Performance Computing,
-  Networking, Storage and Analysis},
+In: \bbtitle{SC15: International Conference for High Performance Computing, Networking, Storage and Analysis},
 pp. \bfpage{65}--\blpage{16512}
 (\byear{2015}).
 \doiurl{10.1145/2807591.2807621} .
@@ -233,8 +228,7 @@ pp. \bfpage{2071}--\blpage{2079}
 \bauthor{\bsnm{Jafarigiv}, \binits{D.}},
 \bauthor{\bsnm{Sheshyekani}, \binits{K.}},
 \bauthor{\bsnm{Kassouf}, \binits{M.}}:
-\batitle{Tensor-based cybersecurity analysis of smart grids using it/ot
-  convergence}.
+\batitle{Tensor-based cybersecurity analysis of smart grids using it/ot convergence}.
 \bjtitle{IEEE Access}
 \bvolume{11},
 \bfpage{73171}--\blpage{73186}
@@ -266,8 +260,7 @@ Version 1, submitted October 12, 2023
 \bauthor{\bsnm{Yu}, \binits{P.S.}},
 \bauthor{\bsnm{Zhou}, \binits{Y.}}:
 \bctitle{Meta-path based multi-network collective link prediction}.
-In: \bbtitle{Proceedings of the 20th ACM SIGKDD International Conference on
-  Knowledge Discovery and Data Mining},
+In: \bbtitle{Proceedings of the 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
 pp. \bfpage{1286}--\blpage{1295}
 (\byear{2019})
 \end{bchapter}
@@ -280,8 +273,7 @@ pp. \bfpage{1286}--\blpage{1295}
 \bauthor{\bsnm{Tao}, \binits{D.}},
 \bauthor{\bsnm{Faloutsos}, \binits{C.}}:
 \bctitle{Beyond streams and graphs: Dynamic tensor analysis}.
-In: \bbtitle{Proceedings of the 12th ACM SIGKDD International Conference on
-  Knowledge Discovery and Data Mining},
+In: \bbtitle{Proceedings of the 12th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
 pp. \bfpage{374}--\blpage{383}
 (\byear{2006})
 \end{bchapter}
@@ -293,8 +285,7 @@ pp. \bfpage{374}--\blpage{383}
 \bauthor{\bsnm{Sun}, \binits{J.}},
 \bauthor{\bsnm{Papadimitriou}, \binits{S.}},
 \bauthor{\bsnm{Yu}, \binits{P.S.}}:
-\bctitle{Window-based tensor analysis on high-dimensional and multi-aspect
-  streams}.
+\bctitle{Window-based tensor analysis on high-dimensional and multi-aspect streams}.
 In: \bbtitle{Proceedings of the Sixth International Conference on Data Mining},
 pp. \bfpage{1076}--\blpage{1080}
 (\byear{2006})
@@ -339,8 +330,7 @@ pp. \bfpage{4}--\blpage{24}
 \bibitem[\protect\citeauthoryear{Kruskal}{1977}]{kruskal1977three}
 \begin{barticle}
 \bauthor{\bsnm{Kruskal}, \binits{J.B.}}:
-\batitle{Three-way arrays: rank and uniqueness of trilinear decompositions,
-  with application to arithmetic complexity and statistics}.
+\batitle{Three-way arrays: rank and uniqueness of trilinear decompositions, with application to arithmetic complexity and statistics}.
 \bjtitle{Linear Algebra and Its Applications}
 \bvolume{18}(\bissue{2}),
 \bfpage{95}--\blpage{138}
@@ -361,8 +351,7 @@ pp. \bfpage{4}--\blpage{24}
 \oauthor{\bsnm{Opushnyev}, \binits{I.}},
 \oauthor{\bsnm{Lu}, \binits{R.}},
 \oauthor{\bsnm{Ghorbani}, \binits{A.A.}}:
-CIC IoT-DIAD 2024 dataset: a dual-function dataset for IoT device
-  identification and anomaly detection
+CIC IoT-DIAD 2024 dataset: a dual-function dataset for IoT device identification and anomaly detection
 (2024).
 \url{https://www.unb.ca/cic/datasets/iot-diad-2024.html}
 \end{botherref}
@@ -375,8 +364,7 @@ CIC IoT-DIAD 2024 dataset: a dual-function dataset for IoT device
 \oauthor{\bsnm{Guo}, \binits{Y.}},
 \oauthor{\bsnm{Ding}, \binits{G.}},
 \oauthor{\bsnm{Han}, \binits{J.}}:
-Acnet: Strengthening the kernel skeletons for powerful cnn via asymmetric
-  convolution blocks.
+Acnet: Strengthening the kernel skeletons for powerful cnn via asymmetric convolution blocks.
 Proceedings of the IEEE/CVF International Conference on Computer Vision,
 1911--1920
 (2019)
@@ -384,8 +372,7 @@ Proceedings of the IEEE/CVF International Conference on Computer Vision,
 \endbibitem
 
 %%% 24
-\bibitem[\protect\citeauthoryear{{TensorFlow Addons
-  Maintainers}}{2021}]{tensorflow_addons2021}
+\bibitem[\protect\citeauthoryear{{TensorFlow Addons Maintainers}}{2021}]{tensorflow_addons2021}
 \begin{botherref}
 \oauthor{\bsnm{{TensorFlow Addons Maintainers}}}:
 TensorFlow Addons.
@@ -403,10 +390,8 @@ Zenodo
 \bauthor{\bsnm{Chen}, \binits{S.}},
 \bauthor{\bsnm{Hu}, \binits{X.}},
 \bauthor{\bsnm{Yang}, \binits{J.}}:
-\bctitle{Understanding the disharmony between dropout and batch normalization
-  by variance shift}.
-In: \bbtitle{Proceedings of the IEEE/CVF Conference on Computer Vision and
-  Pattern Recognition},
+\bctitle{Understanding the disharmony between dropout and batch normalization by variance shift}.
+In: \bbtitle{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
 pp. \bfpage{2682}--\blpage{2690}
 (\byear{2019})
 \end{bchapter}
@@ -443,8 +428,7 @@ pp. \bfpage{2449}--\blpage{2457}
 \begin{bchapter}
 \bauthor{\bsnm{Ioffe}, \binits{S.}},
 \bauthor{\bsnm{Szegedy}, \binits{C.}}:
-\bctitle{Batch normalization: Accelerating deep network training by reducing
-  internal covariate shift}.
+\bctitle{Batch normalization: Accelerating deep network training by reducing internal covariate shift}.
 In: \bbtitle{International Conference on Machine Learning},
 pp. \bfpage{448}--\blpage{456}
 (\byear{2015})
@@ -458,8 +442,7 @@ pp. \bfpage{448}--\blpage{456}
 \bauthor{\bsnm{Wang}, \binits{L.}},
 \bauthor{\bsnm{Wang}, \binits{J.}},
 \bauthor{\bsnm{Wen}, \binits{Y.G.}}:
-\bctitle{Accurate recovery of internet traffic data: A tensor completion
-  approach}.
+\bctitle{Accurate recovery of internet traffic data: A tensor completion approach}.
 In: \bbtitle{Proceedings of IEEE INFOCOM},
 pp. \bfpage{1}--\blpage{9}.
 \bpublisher{IEEE}, \blocation{???}
@@ -468,14 +451,12 @@ pp. \bfpage{1}--\blpage{9}.
 \endbibitem
 
 %%% 30
-\bibitem[\protect\citeauthoryear{Kumar
-  et~al.}{2023}]{limitation2023generalization}
+\bibitem[\protect\citeauthoryear{Kumar et~al.}{2023}]{limitation2023generalization}
 \begin{barticle}
 \bauthor{\bsnm{Kumar}, \binits{S.}},
 \bauthor{\bsnm{Patel}, \binits{N.}},
 \bauthor{\bsnm{Robinson}, \binits{C.}}:
-\batitle{Generalization challenges in machine learning-based network security
-  solutions}.
+\batitle{Generalization challenges in machine learning-based network security solutions}.
 \bjtitle{Cybersecurity}
 \bvolume{6}(\bissue{1}),
 \bfpage{1}--\blpage{18}
@@ -484,13 +465,11 @@ pp. \bfpage{1}--\blpage{9}.
 \endbibitem
 
 %%% 31
-\bibitem[\protect\citeauthoryear{Al-Habashna and
-  Alqahtani}{2021}]{al2021machine}
+\bibitem[\protect\citeauthoryear{Al-Habashna and Alqahtani}{2021}]{al2021machine}
 \begin{barticle}
 \bauthor{\bsnm{Al-Habashna}, \binits{A.}},
 \bauthor{\bsnm{Alqahtani}, \binits{S.}}:
-\batitle{Machine learning for low-rate and stealthy dos attacks: A comparative
-  study}.
+\batitle{Machine learning for low-rate and stealthy dos attacks: A comparative study}.
 \bjtitle{Computer Networks}
 \bvolume{190},
 \bfpage{107942}
